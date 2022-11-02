@@ -13,7 +13,7 @@ void setup() {
   nya=new MultiMarker(this,width,height,"../sketch_5st_d/data/camera_para.dat",NyAR4PsgConfig.CONFIG_PSG);
   nya.addARMarker("../sketch_5st_d/data/patt.hiro",80);
   cam.start();
-   img = loadImage("deer.jpg");
+   img = loadImage("illusion3.jpg");
 }
 
 void draw()
@@ -30,7 +30,7 @@ void draw()
   }
   nya.beginTransform(0);
   fill(0,0,255);
-  translate(20,20,10);
+  translate(10,10,5);
    image(img, 0, 0);
   nya.endTransform();
 }
