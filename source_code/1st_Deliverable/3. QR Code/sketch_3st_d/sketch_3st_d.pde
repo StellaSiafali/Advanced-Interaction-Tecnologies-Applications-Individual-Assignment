@@ -6,6 +6,9 @@ void setup() {
   img = loadImage("my.qr.png");
 }
 
+void mousePressed() { 
+link("https://github.com/StellaSiafali");
+}
 void draw() {
   background(0);
   // The image() function displays the image at a location
