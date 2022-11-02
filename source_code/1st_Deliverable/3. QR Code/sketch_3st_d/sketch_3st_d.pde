@@ -12,7 +12,3 @@ void draw() {
   // in this case the point (0,0).
   image(img, 0, 0, width, height);
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
