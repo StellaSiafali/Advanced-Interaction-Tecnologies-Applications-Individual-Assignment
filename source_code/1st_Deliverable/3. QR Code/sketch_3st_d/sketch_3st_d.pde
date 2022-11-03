@@ -1,13 +1,20 @@
 PImage img; 
+import qrcodeprocessing.*;
+
+Decoder decoder;
 
 void setup() {
   size(400, 400);
   // Make a new instance of a PImage by loading an image file
-  img = loadImage("my.qr.png");
+  img = loadImage("qr-code.png");
+  decoder = new Decoder(this);
+  decoder.decodeImage(img);
 }
 
-void mousePressed() { 
-link("https://github.com/StellaSiafali");
+void decoderEvent(Decoder decoder){
+  String statusMsg = decoder.getDecodedString();
+  println(statusMsg);
+  link(statusMsg);
 }
 void draw() {
   background(0);
