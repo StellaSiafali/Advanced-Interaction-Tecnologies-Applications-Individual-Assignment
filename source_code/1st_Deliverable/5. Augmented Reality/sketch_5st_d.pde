@@ -1,4 +1,4 @@
-<<<<<<< HEAD:source_code/1st_Deliverable/5. Augmented Reality/sketch_5st_d/sketch_5st_d.pde
+
 import processing.video.*;
 import jp.nyatla.nyar4psg.*;
 
@@ -35,7 +35,7 @@ void draw()
    image(img, 0, 0);
   nya.endTransform();
 }
-=======
+
 import processing.video.*;
 import jp.nyatla.nyar4psg.*;
 
@@ -72,4 +72,4 @@ void draw()
    image(img, 0, 0);
   nya.endTransform();
 }
->>>>>>> 02d1ebdd1b2dd169b9da16d2abbca3f306efeb1d:source_code/1st_Deliverable/5. Augmented Reality/sketch_5st_d.pde
+
