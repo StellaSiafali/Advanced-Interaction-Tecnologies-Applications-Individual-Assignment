@@ -33,6 +33,12 @@
 Το παρακάτω στιγμιότυπο αποτυπώνει την στιγμή που τρέχω τον κώδικα εμφανίζεται το QR μου και οδηγεί στον λογαριασμό του GitHub μου:
 ![5st screen correct](https://user-images.githubusercontent.com/100956284/199843553-ceb08014-8448-4a6f-a722-df308218a4af.png)
 
+## 4. QR Code - Camera Read :camera: :checkered_flag:
+
+
+
+
+
 
 # 2nd Deliverable
 
