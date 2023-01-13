@@ -7,6 +7,9 @@
 
 # Introduction
 
+#### Στο παραπάνω μάθημα γενικότερα,γίνετε μία εισαγωγή θεμάτων σχεδιασμού, ανάπτυξης, εφαρμογής και αξιολόγησης advanced user interfaces και natural user interfaces, NUIs. 
+
+
 # Summary
 
 
